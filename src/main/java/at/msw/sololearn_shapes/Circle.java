@@ -4,11 +4,16 @@ public class Circle extends Shape{
     private double width;
 
     public Circle(double width) {
-        this.width = width;
+        super(width);
     }
 
     @Override
     public double area() {
-        return 0;
+        return (Math.PI*Math.pow(this.width,2));
+    }
+
+    @Override
+    public double area(double width) {
+        return (Math.PI*Math.pow(width,2));
     }
 }

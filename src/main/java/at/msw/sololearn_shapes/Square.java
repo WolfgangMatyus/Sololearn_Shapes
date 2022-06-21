@@ -1,14 +1,23 @@
 package at.msw.sololearn_shapes;
 
 public class Square extends Shape {
-      private double width;
+    private double width;
 
     public Square(double width) {
-        this.width = width;
+        super(width);
+    }
+
+    public Square() {
+        super();
     }
 
     @Override
     public double area() {
-        return 0;
+        return Math.pow(this.width,2);
+    }
+
+    @Override
+    public double area(double width) {
+        return Math.pow(width,2);
     }
 }
