@@ -187,6 +187,7 @@ III.	Durch Klick auf das Arteifact wird der Build in den Download Ordner geladen
 
 7.	Redme
 I.	Aufgabentext in Readme einfügen
+II. laufend um Screenshots und beschreibung erweitert.
  
 
 
