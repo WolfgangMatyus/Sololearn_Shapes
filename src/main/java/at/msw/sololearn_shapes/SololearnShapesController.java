@@ -16,7 +16,7 @@ public class SololearnShapesController {
     */
     @GetMapping("/") // GET
     public String index(){
-        return "hello";
+        return "hello there";
     }
 
 }
