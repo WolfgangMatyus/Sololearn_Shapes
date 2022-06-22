@@ -19,3 +19,6 @@ The area of the square is 5*5=25, while the area of the circle is PI*2*2=12.5663
 
 HINT:
 Use the Math.PI constant for the area calculation of the cicle.
+
+
+![grafik](https://user-images.githubusercontent.com/105013150/175044939-19c97e5c-bb83-4727-9121-8bbaec54ad1e.png)
