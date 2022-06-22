@@ -37,7 +37,8 @@ I.	Zuerst wird ein neues Repository in Github erstellt. Dabei wird
 i.	ein README File 
 ii.	ein .gitignore für Maven
 iii.	und eine MIT License hinzugefügt.
- 
+ ![grafik](https://user-images.githubusercontent.com/105013150/175045557-36090f4c-490d-47ee-802b-de026bf19db4.png)
+
 
 II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum Schutz der main branch.
  
