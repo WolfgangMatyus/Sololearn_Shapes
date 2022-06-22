@@ -57,6 +57,9 @@ II.	Die bestehenden Notes aus dem Template werden entfernt und die ersten User S
 
 III.	Die Notes werden dann in Issues umgewandelt und zugewiesen und wandern für die Implementierung zur Spalte „In progress“ und werden dadurch in Bearbeitung genommen.
   
+![grafik](https://user-images.githubusercontent.com/105013150/175046268-04def8c9-f4b0-4a91-9757-3d8c59d496d7.png)
+![grafik](https://user-images.githubusercontent.com/105013150/175046300-efbf3d2e-06c9-4f52-bd7b-4f10d29b0df7.png)
+
 
 IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen feature branch zugewiesen.
  
