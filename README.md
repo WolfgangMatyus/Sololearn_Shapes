@@ -42,15 +42,19 @@ iii.	und eine MIT License hinzugefügt.
 
 II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum Schutz der main branch.
  
+![grafik](https://user-images.githubusercontent.com/105013150/175046015-b8fb6666-400a-4e6c-8cfe-faa7bfcb755f.png)
 
  
 
 2.	User Stories
 I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
  
+![grafik](https://user-images.githubusercontent.com/105013150/175046040-36d4ed01-9db8-4e08-86ca-534942360a0a.png)
 
 II.	Die bestehenden Notes aus dem Template werden entfernt und die ersten User Stories als Notes erfasst.
- 
+
+![grafik](https://user-images.githubusercontent.com/105013150/175046073-23dac28a-5f67-44c8-ae1c-b98ac01c858f.png)
+
 III.	Die Notes werden dann in Issues umgewandelt und zugewiesen und wandern für die Implementierung zur Spalte „In progress“ und werden dadurch in Bearbeitung genommen.
   
 
